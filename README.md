@@ -2,8 +2,12 @@
 # deviceManager
 simple app with authentication and CRUD using ui-router
 
+
+# requirements
+
+Node <a href="https://nodejs.org/download/">download</a>
 ```
-npm install grunt-cli bower
+npm install --global bower grunt-cli
 ```
 Please install bower components and npm modules:
 ```
