@@ -1,12 +1,6 @@
-# call-pal
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+# deviceManager
+simple app with authentication and CRUD using ui-router
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+npm install grunt-cli bower
+grunt serve
